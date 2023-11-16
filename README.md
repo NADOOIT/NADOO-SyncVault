@@ -49,9 +49,9 @@ NetSyncDB is a pioneering framework that combines the simplicity of SQLite's int
 
 ## Support and Contributions
 
-- **Support**: For assistance, please contact [Contact Information].
+- **Support**: For assistance, please contact my under christoph.backhaus@nadooit.de for any questions.
 - **Contributing**: We welcome contributions to NetSyncDB. See our contribution guidelines for details.
 
 ## License
 
-- NetSyncDB is licensed under [Appropriate License].
+- NetSyncDB is licensed under AGPL-3.0 license.
