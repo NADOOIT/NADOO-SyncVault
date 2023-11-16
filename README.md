@@ -1,6 +1,7 @@
 # NetSyncDB
 
 ## About NetSyncDB
+![d2311ca1-d9d4-47ea-9b66-d5e826f2b0d6 (1)](https://github.com/NADOOITChristophBa/NetSyncDB/assets/106314951/901c9986-f2b0-4e6b-a9c8-833af6d789a5)
 
 NetSyncDB is a pioneering framework that combines the simplicity of SQLite's interface with the power of a decentralized, distributed network. Designed for seamless integration, it provides the familiar SQLite database operations along with advanced features like decentralized management and data sharding.
 
