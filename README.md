@@ -1,57 +1,33 @@
-![d2311ca1-d9d4-47ea-9b66-d5e826f2b0d6 (1)](https://github.com/NADOOITChristophBa/NetSyncDB/assets/106314951/901c9986-f2b0-4e6b-a9c8-833af6d789a5)
-# NetSyncDB
+# NADOO SyncVault: Decentralized Cloud Storage Extension for NADOO MeshLink
 
-## About NetSyncDB
+## About NADOO SyncVault
 
-NetSyncDB is a pioneering framework that combines the simplicity of SQLite's interface with the power of a decentralized, distributed network. Designed for seamless integration, it provides the familiar SQLite database operations along with advanced features like decentralized management and data sharding.
+NADOO SyncVault is an extension to NADOO MeshLink, designed to create a decentralized cloud storage ecosystem. It leverages the P2P network capabilities of NADOO MeshLink to provide a distributed, secure, and scalable storage solution.
 
-## Goals of NetSyncDB
+### Key Features
 
-- **SQLite Interface**: Offers the standard SQLite interface for database operations, maintaining ease of use.
-- **Decentralized Data Management**: Implements a peer-to-peer network layer for robust data synchronization across devices.
-- **Sharding for Scalability and Fault Tolerance**: Implements a sharding mechanism similar to RAID 5, allowing multiple server nodes to combine their storage capacities while ensuring data integrity and fault tolerance.
-- **Adaptable and Scalable**: Suitable for various use cases, accommodating changes in network size and structure.
-- **Data Security and Integrity**: Prioritizes high standards of data protection across the network.
+- **Integrated with NADOO MeshLink:** Seamlessly connects with the MeshLink network for efficient data distribution and retrieval.
+- **Decentralized Storage:** Utilizes the collective storage of network nodes to create a distributed cloud storage system.
+- **Data Redundancy and Reliability:** Implements advanced data redundancy mechanisms to ensure data integrity and availability.
+- **Dynamic Data Synchronization:** Keeps data synchronized across various nodes, adapting to network changes and node availability.
 
-## How to Use NetSyncDB
+### Goals of NADOO SyncVault
 
-### Installation and Initial Setup
+- **Expand Storage Capabilities:** Enhance the MeshLink ecosystem by adding robust cloud storage functionalities.
+- **Ensure Data Safety:** Implement encryption and redundancy to protect data against loss and unauthorized access.
+- **Facilitate Easy Access:** Provide users with easy access to their data across the P2P network.
 
-1. **Clone the Repository**: Get started by cloning the NetSyncDB repository.
-2. **Install Dependencies**: Ensure all necessary dependencies are installed.
-3. **Configure the Network**: Set your network configuration based on your specific needs.
+### Using NADOO SyncVault
 
-### Standard SQLite Operations
+- **Installation and Configuration:** Follow the steps to integrate SyncVault with your existing MeshLink setup.
+- **Data Management:** Store, access, and manage your data across the decentralized network with ease.
+- **Scalability and Maintenance:** Easily scale your storage capacity by adding more nodes to the network.
 
-- **Database Operations**: Utilize NetSyncDB just as you would SQLite for data creation, retrieval, and updating.
-- **Seamless Integration**: Enjoy the familiar SQLite experience with the added benefits of decentralized networking in the background.
+### Support and Contributions
 
-### Advanced Features
+- **Support:** For queries and support, contact christoph.backhaus@nadooit.de.
+- **Contributing:** Contributions to enhance and expand NADOO SyncVault are welcome.
 
-#### Sharding
+### License
 
-- **Combining Server Nodes**: Similar to RAID 5, multiple server nodes can be combined to increase the overall storage capacity and add redundancy.
-- **Fault Tolerance**: The system is designed to maintain data integrity even if several nodes fail, allowing for data reconstruction from remaining nodes.
-
-#### Adding New Nodes
-
-1. **Server/Admin Phone - QR Code Generation**:
-   - Use the node management feature on a server/admin node to add new nodes.
-   - Choose the role for the new node (admin/server or user) and generate a QR code for setup.
-
-2. **New Node - Scanning QR Code**:
-   - On the new device, open NetSyncDB and scan the QR code from the server/admin phone for automatic configuration.
-
-### Data Synchronization and Redundancy
-
-- **Automatic Data Sync**: NetSyncDB ensures consistent data across all nodes through automatic synchronization.
-- **Dynamic Network Management**: The system adapts to network changes, such as adding or removing nodes, without disrupting data management.
-
-## Support and Contributions
-
-- **Support**: For assistance, please contact my under christoph.backhaus@nadooit.de for any questions.
-- **Contributing**: We welcome contributions to NetSyncDB. See our contribution guidelines for details.
-
-## License
-
-- NetSyncDB is licensed under AGPL-3.0 license.
+NADOO SyncVault is licensed under the AGPL-3.0 license.
