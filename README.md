@@ -1,3 +1,5 @@
+
+![e1e0f8b0-bdd6-4a32-8aa9-24a646a5f7f9](https://github.com/NADOOITChristophBa/NADOO-SyncVault/assets/106314951/35e2b7a9-285a-4f6e-a545-1b1df28266fe)
 # NADOO SyncVault: Decentralized Cloud Storage Extension for NADOO MeshLink
 
 ## About NADOO SyncVault
